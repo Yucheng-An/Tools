@@ -1,1 +1,3 @@
-# Tools
+.idea
+.vscode
+.gitignore
